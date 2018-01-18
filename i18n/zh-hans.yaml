@@ -3,13 +3,13 @@
   translation: "关于"
 
 - id: title_apps
-  translation: "Download" # TODO: i18n: update translation
+  translation: "下载" # TODO: i18n: update translation
 
 - id: title_faq
-  translation: "经常问到的问题"
+  translation: "常见问题"
 
 - id: title_getsiacoin
-  translation: "取得细亚币"
+  translation: "获取云储币"
 
 - id: title_getstarted
   translation: "开始"
@@ -24,7 +24,7 @@
   translation: "社区"
 
 - id: header_getsiacoin
-  translation: "取得细亚币"
+  translation: "获取云储币"
 
 ### discover ###
 - id: discover_header
@@ -34,32 +34,32 @@
   translation: "白皮书"
 
 - id: discover_blog
-  translation: "部落格"
+  translation: "博客"
 
 - id: discover_explorer
-  translation: "区块链探索者"
+  translation: "区块链浏览器"
 
 - id: discover_devdocs
-  translation: "研发者的文件"
+  translation: "开发文件"
 
 ### footer ###
 - id: footer_navheader
-  translation: "什么是细亚？"
+  translation: "什么是云储币？"
 
 - id: footer_moreheader
-  translation: "更多关于细亚"
+  translation: "更多"
 
 - id: footer_docs
   translation: "文件"
 
 - id: footer_blog
-  translation: "部落格"
+  translation: "博客"
 
 - id: footer_forum
   translation: "论坛"
 
 - id: footer_siatalk
-  translation: "#siatalk on irc.freenode.net" # TODO: i18n: translate this.
+  translation: "#siatalk @IRC" # TODO: i18n: translate this.
 
 - id: footer_backedby
   translation: "被支持"
@@ -213,22 +213,22 @@
   translation: "2013年十月：主意"
 
 - id: milestones_angel
-  translation: "2014 6 月：天使投资" #TODO: i18n: is this translation correct?
+  translation: "2014年6月：天使投资" #TODO: i18n: is this translation correct?
 
 - id: milestones_whitepaper
-  translation: "2014 年 11 月：白皮书" #TODO: i18n: is this translation correct?
+  translation: "2014年11月：白皮书" #TODO: i18n: is this translation correct?
 
 - id: milestones_launch
-  translation: "2015 6 月：细亚网络启动" #TODO: i18n: is this translation correct?
+  translation: "2015年6月：云储币网络启动" #TODO: i18n: is this translation correct?
 
 - id: milestones_v1
-  translation: "2016年6月：细亚 V1" #TODO: i18n: is this translation correct?
+  translation: "2016年6月：云储币V1" #TODO: i18n: is this translation correct?
 
 - id: milestones_exchanges
-  translation: "July 2016: Sia on Poloniex, YUNBI, Bitsquare, and ShapeShift" # TODO: i18n: translate this.
+  translation: "2016年7月: 在Poloniex、云币、Bitsquare和ShapeShift上线" # TODO: i18n: translate this.
 
 - id: milestones_funding2016
-  translation: "August 2016: Nebulous Raises $750k for Sia" # TODO: i18n: translate this.
+  translation: "2016年8月: Nebulous Raises $750k for Sia" # TODO: i18n: translate this.
 
 
 # URL: /apps/index.html
